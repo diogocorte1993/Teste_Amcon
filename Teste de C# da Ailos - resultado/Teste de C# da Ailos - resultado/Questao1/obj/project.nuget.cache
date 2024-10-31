@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8BWnhWvLkierUDFd2FOpLsbsFhXG/BRf6fsb9+8hKznG1639qvluzgIuPYfmTFD2g0mT4dQrfw342DivxJhFA==",
+  "success": true,
+  "projectFilePath": "C:\\e\\Teste de C# da Ailos - resultado\\Teste de C# da Ailos - resultado\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diogo\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

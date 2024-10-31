@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Questao5.Infrastructure.Services.Controllers.ContaCorrenteController",
+    "Method": "CreateMovimento",
+    "RelativePath": "api/ContaCorrente/Movimento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Questao5.Application.Commands.Requests.CreateMovimentacaoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Questao5.Infrastructure.Services.Controllers.ContaCorrenteController",
+    "Method": "GetSaldo",
+    "RelativePath": "api/ContaCorrente/Saldo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idContaCorrente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
